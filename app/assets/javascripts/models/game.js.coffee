@@ -1,0 +1,1 @@
+Game = Backbone.Model.extend

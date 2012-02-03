@@ -12,4 +12,11 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require backbone
+//= require json2
+//= require ./models
+//= require ./collections
+//= require ./views
+//= require ./routers
+//= require ../templates
+//= require games
